@@ -22,7 +22,6 @@ console.log(animal); // No se puede reasignar el valor, ya que es una constante 
 
 const vehicles = [];
 vehicles.push("🚗");
-console.log(vehicles):
 
 vehicles.pop();
 console.log(vehicles);
