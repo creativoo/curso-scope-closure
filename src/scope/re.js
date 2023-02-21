@@ -21,7 +21,7 @@ animal = 'cat'; // se intenta reasignar el valor del animal a "cat".
 console.log(animal); // No se puede reasignar el valor, ya que es una constante y no puede remplazar el valor.
 
 const vehicles = [];
-vehicles.push("🚗");
+vehicles.push("carro");
 
 vehicles.pop();
 console.log(vehicles);
